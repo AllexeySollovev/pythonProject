@@ -1,0 +1,1 @@
+Name - Алексей; LastName - Соловьёв; phone - 89046372903; email - artsol1@mail.ru; password - 12345678

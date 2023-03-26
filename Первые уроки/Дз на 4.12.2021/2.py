@@ -1,0 +1,6 @@
+one=input("Введи любое слово: ")
+two=input("Введи любое слово: ")
+one1=len(one)
+two2=len(two)
+d=((5>one1) and (5>two2))
+print(d)
